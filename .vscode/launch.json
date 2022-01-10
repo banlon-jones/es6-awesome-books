@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "/home/go-groups/workspace/microverse/module 2/awesome-part2/index.html"
+        }
+    ]
+}
